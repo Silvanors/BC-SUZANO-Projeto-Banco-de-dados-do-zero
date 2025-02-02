@@ -13,10 +13,12 @@ Modelo apresentado [OS - Oficina mecânica](Modelo_Oficina_mecanica_OS.png) acre
 
 ## 📑 Perguntas para queries SQL:
 
+* Algumas das perguntas que podes fazer para embasar as queries SQL:
 * Quantos pedidos foram feitos por cada cliente?
-* Algum vendedor também é fornecedor?
-* Relação de produtos fornecedores e estoques;
-* Relação de nomes dos fornecedores e nomes dos produtos;
+* Algum cliente também é mecânico?
+* Relação de equipe e serviços;
+* Lista dos clientes e seus carros;
+* Verificar Status da OS;
 
 ## 📑 Resultado:
 
